@@ -56,22 +56,6 @@ I am a software developer and researcher focused on the intersection of **Comput
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=timarbende&show_icons=true&theme=radical&hide_border=true" alt="Tim's Stats" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timarbende&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<br clear="both"/>
-
-### ⚡ Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timarbende&theme=radical&hide_border=true" alt="timarbende" />
-</p>
-
----
-
 ## 🧪 Featured Project
 ### [RoomScale-PBR-Material-Gen](https://github.com/timarbende/RoomScale-PBR-Material-Gen)
 A PBR material generation pipeline using **Score Distillation Sampling** for indoor scenes. It aims to automate high-quality texture creation for architectural visualization.
@@ -79,5 +63,13 @@ A PBR material generation pipeline using **Score Distillation Sampling** for ind
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/timarbende](https://www.linkedin.com/in/bendegúz-timár-043634205/) - **Email:** [timar.bendi@gmail.com](mailto:timar.bendi@gmail.com) ## 💡 Quote of the Day
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **LinkedIn:** [linkedin.com/in/timarbende](https://www.linkedin.com/in/bendegúz-timár-043634205/)
+- **Email:** [timar.bendi@gmail.com](mailto:timar.bendi@gmail.com)
+
+## 💡 Quote of the Day
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flat">
+  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</picture>
+
